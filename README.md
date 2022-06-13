@@ -4,7 +4,7 @@
 The main purpose of this report is to study the New York CitiBike data for the month of August which is the busiest month and highlight the main talking points such us type of users, CitiBike user by Gender, and prepare a comparitive study for a similar project/opportuntiy in Des Moines, Iowa.
 
 ## Link to Tablue Story 
-[link to dashboard](https://public.tableau.com/app/profile/rahul.lal6768/viz/BikeDataChallenge/Story1?publish=yes)
+[Link to Dashboard](https://public.tableau.com/app/profile/rahul.lal6768/viz/BikeDataChallenge/Story1?publish=yes)
 
 ## Results
 
