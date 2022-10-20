@@ -16,7 +16,7 @@ The main purpose of this report is to study the New York CitiBike data for the m
 
 2. Comparing the checkout times for each gender. The man=ximum trip duration for Female users is 6 minutes compared to 5 mintues for Men. For unknown users you see a plateau from 12 to 22 minutes.
 
-![image](https://user-images.githubusercontent.com/100053788/173273284-62ba524b-e5ca-4e64-affa-9604ac6fdf98.png
+![image](https://user-images.githubusercontent.com/100053788/173273284-62ba524b-e5ca-4e64-affa-9604ac6fdf98.png)
 
 3. Hourly stop time per day. Maximum number of users are seen on Thursday between 5-7pm.
 
